@@ -48,17 +48,20 @@ You can see from the visual above the seasons with high concentration of PM 2.5.
 
 ![](air_rain_snow.PNG)
 
+
 During rainy days its unlikely we have polluted air, as seen in the visual the concentration of PM2.5 reduces with high rainfalls and gradually increase in the absence of rain. Polluted air is high when the temp is reduced(Snowy days). As seen in the visual, the lower the temp the higher the concentration of PM2.5 meaning there is high tendency of polluted air during snow.
 
 ###### Impact of PM2.5 on Weather Condition(Wind)
 
 ![](air_wind.PNG)
 
+
 During windy days, there is a high tendency of polluted air as seen in the visual. The more the wind speed the higher the concentration of PM2.5. Furthermore, PM2.5 is directly mostly toward the SE as compared to other regions.
 
 ###### Impact of PM2.5 on Temperature and Dewpoint
 
 ![](air_temp_dewp.PNG)
+
 
 Temperature and PM2.5 is inversely proportional, During High temperature concentration of PM2.5 reduces, while during low temperature, the concentration of PM2.5 increases as seen in the visual. Dewpoint as seen is only going up during the summer time. High dew point means unlikely to have rains and snows.
 
