@@ -1,4 +1,4 @@
-# Impact-Of-Weather-Condition-On-Air-Quality
+# Impact-Of-Weather-Conditions-On-Air-Quality
 
 ![](intro_image.jpg)
 
